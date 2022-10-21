@@ -6,4 +6,3 @@ The strategy is quite simple and has had good performance over a 15 year period 
 The strategy trades YM and NQ futures within the first half hour of trading, buying whichever one has outperformed the other since the previous day's close, and
 shorts the other in a corresponding quantity, adjusted for volatility. 
 
-Steve
